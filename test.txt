@@ -1,0 +1,4 @@
+practice the git commands
+status
+add
+commit
